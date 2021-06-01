@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @blondiedies
+- 👀 I’m interested in being a bad mf.
+- 🌱 I’m currently learning Java, C++
+- 📫 twitter - @blondiedies (apologizing in advance for all the minecraft)
