@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @blondiedies
 - 👀 I’m interested in being based and awesome.
-- 🌱 Languages: Java, C++, C#
-- 📫 twitter - @blondiedies (apologizing in advance for all the minecraft)
+- 🌱 Languages: Java, Python, C++, C#, ASP.NET, CSS
+- 📫 twitter - @gigaeons
